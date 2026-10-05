@@ -1,6 +1,6 @@
-# Washing Machine Controller — SystemVerilog FSM
+# Washing Machine Controller 
 
-A synthesizable **SystemVerilog Moore finite-state-machine (FSM)** for a coin-operated washing machine.  
+A synthesizable **Verilog Moore finite-state-machine (FSM)** for a coin-operated washing machine.  
 The project includes a self-checking testbench and a GitHub Actions workflow that automatically compiles and runs the simulation.
 
 ## Features
